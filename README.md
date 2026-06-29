@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou a Thamires!
 
-<!--
-**thamygomes/thamygomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Analista de Dados** com experiência em Python, MATLAB e visualização de dados. 
+Apaixonada por transformar dados em insights e criar dashboards interativos.
 
-Here are some ideas to get you started:
+## 🛠️ Habilidades Técnicas
+- **Linguagens**: Python, MATLAB, SQL
+- **Ferramentas**: Jupyter Notebook, Power BI, Tableau
+- **Áreas de atuação**: Análise de dados, Machine Learning, Visualização de Dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos em Destaque
+- **[Dashboard VNL 2026](link)**: Previsões interativas para a Liga das Nações de Vôlei.
+- **[Análise de Dados de Maré](link)**: Processamento e análise de dados oceanográficos com MATLAB.
+
+## 📫 Onde me encontrar
+- [LinkedIn](https://www.linkedin.com/in/thamires-a-gomes/)
+- [E-mail](thamiresagomes@hotmail.com)
+- [Site](https://thamiresagomes.my.canva.site/)
